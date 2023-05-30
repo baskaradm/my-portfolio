@@ -149,3 +149,8 @@ a {
 .footer .social * {
   margin-right: 10px;
 }
+
+/* About */
+.about-paragraph {
+  margin-bottom: 10px !important;
+}
